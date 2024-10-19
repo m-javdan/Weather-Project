@@ -1,6 +1,6 @@
 import React from 'react';
-import WeatherApp from "../../../Util/Main/WeatherApp"; // Main component for displaying weather information
-import WeatherByIP from "../../../Util/Footer/IP-Address/WeatherByIP"; // Component to display user weather based on IP
+import WeatherApp from "../../Util/Main/WeatherApp"; // Main component for displaying weather information
+import WeatherByIP from "../../Util/Footer/IP-Address/WeatherByIP"; // Component to display user weather based on IP
 
 const Home = () => {
     return (

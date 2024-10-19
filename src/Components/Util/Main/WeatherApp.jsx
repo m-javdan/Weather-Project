@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import SearchField from './SearchField';
 import FetchApiWeather from './FetchApiWeather';
-import RecentLocations from '../../Components/Header/Navbar/RecentLocations';
+import RecentLocations from '../../Header/Navbar/RecentLocations';
 
 function WeatherApp() {
     const [city, setCity] = useState(''); // Default value for the city
