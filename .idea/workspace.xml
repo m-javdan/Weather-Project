@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26a22a39-e90a-4e9d-8488-feb7985942d3" name="Changes" comment="Second project">
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Navbar/RecentLocations.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Pages/AboutProject.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Pages/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Components/Header/Navbar/RecentLocations.jsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/node_modules/@babel/core/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@babel/eslint-parser/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@babel/helper-create-class-features-plugin/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@babel/helper-create-regexp-features-plugin/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@babel/plugin-transform-runtime/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@babel/preset-env/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@eslint/eslintrc/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@isaacs/cliui/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@istanbuljs/load-nyc-config/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@jest/console/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@jest/core/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@jest/expect-utils/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@jest/reporters/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@jest/transform/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@jest/types/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@rollup/pluginutils/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@testing-library/dom/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@testing-library/jest-dom/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/@testing-library/react/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/acorn-globals/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/ajv-formats/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/axios/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/babel-jest/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/babel-loader/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/babel-plugin-polyfill-corejs2/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/body-parser/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/chokidar/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/clean-css/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/compression/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/css-tree/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/csso/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/cssstyle/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/detect-port-alt/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/domexception/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/escodegen/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/eslint-import-resolver-node/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/eslint-module-utils/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/eslint-plugin-import/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/eslint-plugin-react/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/eslint-webpack-plugin/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/eslint/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/express/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/fast-glob/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/file-loader/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/finalhandler/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/foreground-child/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/fork-ts-checker-webpack-plugin/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/global-prefix/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/hpack.js/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/import-fresh/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/istanbul-lib-instrument/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/istanbul-lib-report/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jake/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-circus/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-cli/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-config/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-diff/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-jasmine2/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-matcher-utils/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-message-util/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-resolve/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-runner/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-runtime/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-snapshot/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-util/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-watch-typeahead/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jest-worker/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/jsonpath/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/make-dir/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/path-scurry/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/pkg-up/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/postcss-svgo/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/pretty-format/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/prop-types/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/proxy-addr/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/raw-body/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/react-dev-utils/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/rollup-plugin-terser/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/schema-utils/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/send/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/serve-index/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/source-map-support/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/stack-utils/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/static-eval/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/string-width-cjs/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/string-width/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/sucrase/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/supports-hyperlinks/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/svgo/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/tempy/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/terser-webpack-plugin/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/terser/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/tough-cookie/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/tsconfig-paths/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/tsutils/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/v8-to-istanbul/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/webpack-dev-server/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/webpack/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/whatwg-encoding/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/workbox-build/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/workbox-webpack-plugin/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/wrap-ansi-cjs/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/wrap-ansi/package.json" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nPto4pXoHYqTC2CimekXQGwFd8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.App.jsx.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/M.H.J/Desktop/weather-project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.test.executor&quot;: &quot;Run&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\M.H.J\Desktop\weather-project\src\Components" />
+      <recent name="C:\Users\M.H.J\Desktop\weather-project\src\Until\Main" />
+      <recent name="C:\Users\M.H.J\Desktop\weather-project\src\Until\Footer" />
+      <recent name="C:\Users\M.H.J\Desktop\weather-project\src\Components\Header" />
+      <recent name="C:\Users\M.H.J\Desktop\weather-project\src\Until" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26a22a39-e90a-4e9d-8488-feb7985942d3" name="Changes" comment="" />
+      <created>1728886714617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728886714617</updated>
+      <workItem from="1728886716528" duration="24000" />
+      <workItem from="1728886744289" duration="16612000" />
+      <workItem from="1728918757127" duration="57000" />
+      <workItem from="1728919188600" duration="919000" />
+      <workItem from="1728975716790" duration="23472000" />
+      <workItem from="1729061651594" duration="23040000" />
+      <workItem from="1729145903258" duration="25034000" />
+      <workItem from="1729185815382" duration="3653000" />
+      <workItem from="1729235312150" duration="18919000" />
+      <workItem from="1729275475872" duration="2326000" />
+      <workItem from="1729278587276" duration="82000" />
+      <workItem from="1729278685165" duration="61000" />
+      <workItem from="1729278747694" duration="83000" />
+      <workItem from="1729278835257" duration="72000" />
+      <workItem from="1729280234914" duration="2574000" />
+      <workItem from="1729321555112" duration="3485000" />
+      <workItem from="1729326646130" duration="3130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="javascript:npm:react" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:hbs" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:stylus-loader" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:tailwindcss" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:stylus" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:vite" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:webpack" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:karma" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:tslint" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:prettier" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:ejs" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:pug" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:cypress" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:postcss" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialize project using Create React App" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
