@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26a22a39-e90a-4e9d-8488-feb7985942d3" name="Changes" comment="Second project 0.01">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Navbar/RecentLocations.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Navbar/RecentLocations.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Pages/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Styles/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Util/Footer/IP-Address/FetchUserCity.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Util/Footer/IP-Address/FetchUserCity.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Util/Footer/IP-Address/WeatherByIP.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Util/Footer/IP-Address/WeatherByIP.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Util/Main/FetchApiWeather.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Util/Main/FetchApiWeather.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Util/Main/SearchField.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Util/Main/SearchField.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Util/Main/WeatherApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Util/Main/WeatherApp.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="26a22a39-e90a-4e9d-8488-feb7985942d3" name="Changes" comment="Second project 0.02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -250,6 +239,7 @@
       <workItem from="1729509891936" duration="1717000" />
       <workItem from="1729523957696" duration="3305000" />
       <workItem from="1729533822147" duration="1851000" />
+      <workItem from="1729577783148" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="Second project">
       <option name="closed" value="true" />
@@ -267,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729348127154</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Second project 0.02">
+      <option name="closed" value="true" />
+      <created>1729577978307</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729577978307</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +291,7 @@
     <MESSAGE value="Initialize project using Create React App" />
     <MESSAGE value="Second project" />
     <MESSAGE value="Second project 0.01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second project 0.01" />
+    <MESSAGE value="Second project 0.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second project 0.02" />
   </component>
 </project>
