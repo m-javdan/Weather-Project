@@ -4,33 +4,32 @@ import FetchApiWeather from './FetchApiWeather';
 import RecentLocations from '../../Header/Navbar/RecentLocations';
 
 function WeatherApp() {
-    const [city, setCity] = useState(''); // Default value for the city
-    const [weather, setWeather] = useState(null); // Weather state
-    const [history, setHistory] = useState([]); // Search history
-    const [searchQuery, setSearchQuery] = useState(''); // Store search value
+    const [city, setCity] = useState('');
+    const [weather, setWeather] = useState(null);
+    const [history, setHistory] = useState([]);
+    const [searchQuery, setSearchQuery] = useState('');
 
-    // Update search history
     const updateHistory = (newCity, weatherData) => {
         setHistory((prevHistory) => {
             const updatedHistory = [{ city: newCity, weather: weatherData },
                 ...prevHistory.filter(item => item.city !== newCity)];
-            return updatedHistory.slice(0, 5); // Limit history to 5 cities
+            return updatedHistory.slice(0, 5);
         });
     };
 
     const handleSearch = () => {
-        setSearchQuery(city); // Execute search when button is clicked
-        setCity(''); // Clear input after search
+        setSearchQuery(city);
+        setCity('');
     };
 
     const handleKeyPress = (event) => {
         if (event.key === 'Enter') {
-            handleSearch(); // Execute search when Enter is pressed
+            handleSearch();
         }
     };
 
     const handleCitySelect = (selectedCity) => {
-        setCity(selectedCity); // Set city when selected from history
+        setCity(selectedCity);
     };
 
     return (

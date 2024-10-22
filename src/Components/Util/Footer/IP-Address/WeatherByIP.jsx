@@ -3,9 +3,9 @@ import FetchUserCity from "./FetchUserCity";
 import axios from 'axios';
 
 const WeatherByIP = () => {
-    const [weather, setWeather] = useState(null); // Weather data
-    const [city, setCity] = useState(''); // User city
-    const [dateTime, setDateTime] = useState(''); // Current date and time
+    const [weather, setWeather] = useState(null);
+    const [city, setCity] = useState('');
+    const [dateTime, setDateTime] = useState('');
 
     // Function to format the current date and time
     const formatCurrentDateTime = () => {
@@ -43,7 +43,6 @@ const WeatherByIP = () => {
         setDateTime(formatCurrentDateTime());
         fetchWeatherData();
 
-        // Update date and time every second
         const interval = setInterval(() => {
             setDateTime(formatCurrentDateTime());
         }, 1000);

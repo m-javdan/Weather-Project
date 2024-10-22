@@ -1,31 +1,30 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import axios from 'axios';
 
 function FetchApiWeather({ city, setWeatherData, addToHistory }) {
-    const [error, setError] = useState(null); // State to store error messages
+    const [error, setError] = useState(null);
 
     useEffect(() => {
-        if (!city) return; // Do not proceed if the city is not provided
+        if (!city) return;
 
         const fetchWeather = async () => {
             try {
-                // Fetch weather data from the API
                 const response = await axios.get(
                     `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=50638de8cf602acc9bff0ddbe61482ec`
                 );
-                setWeatherData(response.data); // Update the weather state with the fetched data
-                addToHistory(city, response.data); // Update search history with the new data
-                setError(null); // Clear any previous error on successful fetch
+                setWeatherData(response.data);
+                addToHistory(city, response.data);
+                setError(null);
             } catch (error) {
-                console.error("Error fetching weather data:", error); // Log any error that occurs during fetch
-                alert('Please type your city'); // Alert for invalid city input
+                console.error("Error fetching weather data:", error);
+                alert('Please type your city');
             }
         };
 
-        fetchWeather(); // Call the function to fetch weather data
-    }, [city]); // Run effect whenever the city changes
+        fetchWeather();
+    }, [city]);
 
-    return null; // No error message to display
+    return null;
 }
 
 export default FetchApiWeather;

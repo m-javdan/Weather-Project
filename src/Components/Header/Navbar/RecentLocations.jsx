@@ -14,9 +14,7 @@ function RecentLocations({searchHistory, handleCitySelect}) {
                         onClick={() => handleCitySelect(item.city)}
                         className="bg-orange-200 p-4 rounded shadow-md cursor-pointer transition duration-200"
                     >
-                        {/*Show city name*/}
                         <p className="font-bold">{item.city}</p>
-                        {/*Display weather information*/}
                         {item.weather && (
                             <div>
                                 <p>Temperature: {(item.weather.main.temp - 273.15).toFixed(2)} °C</p>

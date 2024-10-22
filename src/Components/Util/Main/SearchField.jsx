@@ -5,11 +5,13 @@ function SearchField({ city, setCity, handleSearch, handleKeyPress }) {
         <div className="flex items-center justify-center mt-4 mb-4">
             <input
                 type="text"
-                value={city} // The current value of the input field
-                onChange={(e) => setCity(e.target.value)} // Update city state on input change
-                onKeyPress={handleKeyPress} // Handle key press events
-                placeholder="Enter city name" // Placeholder for the input field
+                value={city}
+                onChange={(e) => setCity(e.target.value)}
+                onKeyPress={handleKeyPress}
+                placeholder="Enter city name"
                 className="border border-gray-300 rounded-l px-4 py-2 focus:outline-none focus:ring-1 w-1/3"
+                autoFocus
+
             />
             <button
                 onClick={handleSearch} // Trigger search when button is clicked
